@@ -15,3 +15,6 @@ Transmitter and Receiver using :
 
   ![CIRCUIT](https://user-images.githubusercontent.com/54714942/124586046-99ed4080-de73-11eb-96fc-94df407dc679.png)
          
+# CONCEPT
+
+![MORSE](https://user-images.githubusercontent.com/54714942/124586244-d620a100-de73-11eb-9c3e-88376c263a42.png)
