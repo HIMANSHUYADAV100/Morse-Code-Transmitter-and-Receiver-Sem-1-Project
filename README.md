@@ -18,3 +18,5 @@ Transmitter and Receiver using :
 # CONCEPT
 
 ![MORSE](https://user-images.githubusercontent.com/54714942/124586244-d620a100-de73-11eb-9c3e-88376c263a42.png)
+
+I had further tweaked the timing factors to better suit the requirements of the project.
