@@ -2,6 +2,8 @@
 
 # PROJECT WINK
 
+Languages : C# and C++
+
 Transmitter and Receiver using :
 
                                   01 Arduino
